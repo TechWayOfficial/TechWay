@@ -1,0 +1,24 @@
+[01-Dec-2022 04:37:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp(1): nMk::NcmwOAou()
+#1 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp on line 1
+[01-Dec-2022 21:22:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp(1): nMk::NcmwOAou()
+#1 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp on line 1
+[04-Dec-2022 08:14:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp(1): nMk::NcmwOAou()
+#1 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp on line 1
+[04-Dec-2022 23:50:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp(1): nMk::NcmwOAou()
+#1 /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/prettyPhoto/laRkdMPwKQYTiFO.3gp on line 1

@@ -1,0 +1,12 @@
+[21-Nov-2022 20:21:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv(1): tefc::SALq()
+#1 /home3/inprin14/public_html/css/slick-slider/slick-slider/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv on line 1
+[28-Nov-2022 05:10:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv(1): tefc::SALq()
+#1 /home3/inprin14/public_html/css/slick-slider/slick-slider/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/slick-slider/slick-slider/oZhrTzvKULdEHwy.wmv on line 1

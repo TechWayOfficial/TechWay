@@ -1,0 +1,12 @@
+[19-Nov-2022 11:34:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc(1): ZM::AkhBNC()
+#1 /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc on line 1
+[30-Nov-2022 20:08:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc:1
+Stack trace:
+#0 /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc(1): ZM::AkhBNC()
+#1 /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/index.php(1): include('/home3/inprin14...')
+#2 {main}
+  thrown in /home3/inprin14/public_html/css/prettyPhoto/light_rounded/light_rounded/volCLBxmyjSpOsIMXfPV.jpc on line 1
